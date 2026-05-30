@@ -18,6 +18,10 @@ This project analyzes the Sample Superstore dataset to identify sales, profit, a
 ## Dataset
 The cleaned dataset is included in the `/data` folder.
 
+## Analysis Notebook
+- [Jupyter notebook](scripts/superstore_eda.ipynb)
+- [GitHub-readable Markdown version](scripts/superstore_eda.md)
+
 ## Dashboard Preview
 ![Dashboard Preview](images/superstore_dashboard.png)
 
@@ -30,6 +34,7 @@ The cleaned dataset is included in the `/data` folder.
 - `data/cleaned_superstore.csv`
 - `data/SampleSuperstore.csv`
 - `scripts/superstore_eda.ipynb`
+- `scripts/superstore_eda.md`
 - `tableau/superstore_dashboard.twbx`
 - `images/superstore_dashboard.png`
 
